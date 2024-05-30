@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="button">Button</string>
+    <string name="name">Khaled Osama ElHabibi</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_content">Professional Overview:\n\n
+
+		Khaled is a dedicated software developer with a passion for mobile app development. He specializes in React and React Native, creating dynamic and user-friendly applications. Khaled has recently expanded his expertise to Android development, learning Kotlin through a Udacity Nanodegree program.
+\n
+\n
+Experience:
+\n
+\n
+	•	Developed and maintained multiple mobile applications using React Native.\n
+
+	•	Integrated Firebase and various APIs to enhance app functionality.
+\n
+	•	Implemented multilingual support, including Arabic translations, in mobile apps.
+\n
+	•	Gained foundational knowledge in blockchain and cryptocurrencies.
+\n
+
+Skills:
+\n
+\n
+
+	•	React and React Native
+\n
+	•	TypeScript and JavaScript
+\n
+	•	Firebase Integration
+\n
+	•	Android Development (Kotlin)
+\n
+	•	Localization and Internationalization
+\n
+
+Personal Interests:
+\n
+\n
+
+	•	Passionate about learning new technologies and improving his development skills.
+\n
+	•	Enjoys watching the television series “House” to improve English proficiency.
+\n
+	•	Enthusiastic about travel, influenced by his fiancée’s love for exploring new places.
+\n
+
+Current Focus:
+\n
+\n
+Khaled is currently preparing interview questions for front-end developer candidates and is working on projects that involve both mobile and web development.
+\n
+	</string>
+	<string name="what_is_your_nickname">What is your nickname ?</string>
+	<string name="done">Done</string>
+	<string name="box_one">Box One</string>
+	<string name="box_two">Box Two</string>
+	<string name="box_three">Box Three</string>
+	<string name="box_four">Box Four</string>
+	<string name="box_five">Box Five</string>
+
+</resources>
